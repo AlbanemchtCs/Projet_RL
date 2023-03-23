@@ -1,5 +1,5 @@
 # 🎰 Projet Connect4 Agent 
-Projet pour le cours de Reinforcement Learning Processing à CentraleSupélec. 
+Projet pour le cours de Reinforcement Learning à CentraleSupélec. 
 
 ## 🎯 Objectifs
 
