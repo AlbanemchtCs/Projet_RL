@@ -1,9 +1,7 @@
 # 🎰 Projet Connect4 Agent 
 Projet pour le cours de Reinforcement Learning à CentraleSupélec. 
 
-## 🎯 Objectifs
-
-## :page_facing_up: Description
+## 🎯 Objectif
 L'objectif du projet consiste à développer un agent pour Connect4, tel qu'il est implémenté dans la bibliothèque PettingZoo, en utilisant des méthodes d'apprentissage par renforcement.
 
 ## 🤔 Choix techniques
@@ -14,7 +12,7 @@ Nous avons également décidé d'établir un plateau de jeu pour qu'il soit asse
 Une comparaison et une amélioration des performances du modèle DQN par rapport aux agents basés sur des règlés ont été mises en oeuvre, et des tests sur d'autres architectures de Reinforcement Learning ont été également été effectués.
 
 ## :card_index_dividers: Segmentation
-Notre répertoire est segmenté en X fichiers python, X jupyter notebooks, deux fichiers markdown, un fichier .gitinore et un fichier texte pour les requirements :
+Notre répertoire est segmenté en 2 jupyter notebooks, deux fichiers markdown, un fichier .gitinore et un fichier texte pour les requirements :
 
 ```bash 
 .
